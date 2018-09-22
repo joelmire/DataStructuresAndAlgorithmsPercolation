@@ -1,0 +1,7 @@
+Name: Joel Mire
+NetID: jrm103
+Hours Spent: 18
+Consulted With: Ulises Espino (jun), Tai-Lin Wu (Grad TA), Andrew Yeung (Peer Tutor)
+Resources Used: Princeton powerpoints, Duke CS 201 powerpoints
+Difficulty level: Program: 6, Analysis: 9.5
+Impressions: The Analysis was extremely difficult, especially with no sure sources of information to go to (instructions, common understanding between TAs, piazza)
